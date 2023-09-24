@@ -1,5 +1,5 @@
 # Peppino
-This is a spyware used in combination with telegram
+Peppino is a spyware used in combination with telegram
 use <code>/help</code> to get the commands!
 
 <h2>Hi Peppino</h2>
