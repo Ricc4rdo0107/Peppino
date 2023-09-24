@@ -2,7 +2,7 @@
 This is a spyware used in combination with telegram
 use <code>/help</code> to get the commands!
 
-<code>Hi Peppino
+Hi Peppino
   
 ###########################
 /stop
@@ -28,4 +28,3 @@ use <code>/help</code> to get the commands!
 
 *send a picture* : create an alert pop-up with the picture that you sent
 """
-</code>
