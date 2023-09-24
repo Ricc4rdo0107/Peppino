@@ -2,8 +2,7 @@
 This is a spyware used in combination with telegram
 use <code>/help</code> to get the commands!
 
-<code>
-Hi Peppino
+<code>Hi Peppino
   
 ###########################
 /stop
