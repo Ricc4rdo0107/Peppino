@@ -1,5 +1,5 @@
 # Peppino
-Peppino is a spyware/prank tool used in combination with a telegram bot
+Peppino is a prank tool used in combination with a telegram bot
 use <code>/help</code> to get the commands!
 
 <h2>Hi Peppino</h2>
