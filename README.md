@@ -1,8 +1,8 @@
 # Peppino
 Peppino is a prank tool used in combination with a telegram bot. To compile it consider using the <code>auto-py-to-exe</code> module.<br>
-use <code>/help</code> to get the commands!
 
 <h2>Hi Peppino</h2>
+Use <code>/help</code> to get the commands!
 
 /stop : disconnect the bot.
 
