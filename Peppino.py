@@ -209,7 +209,7 @@ current_time = datetime.now().strftime("%H:%M:%S")
 try:
     selphie(OWNER, bot)
 except Exception as e:
-    bsend(f"Mannaggia cristo agg fatt na cacat\n{e}")
+    bsend(f"Mannaggia agg fatt na cacat\n{e}")
 
 bsend(f"Bot avviato alle {current_time}, bentornato Peppino")
 
